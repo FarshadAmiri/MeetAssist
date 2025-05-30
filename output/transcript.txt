@@ -1,9 +1,12 @@
-Speaker A: Sam.
-Speaker B: Keyboard interrupt.
-Speaker C: Yeah, your name?
-Speaker B: Okay. Hello. We expect that in the save it file. Yeah, in the saved file. Actually we can have this. We are testing the whole file together and actually we want it to work.
-Speaker C: All wrapped together.
-Speaker B: So actually we are going along together and see what will happen in next steps. Next step is to have this code all running all wrong.
-Speaker C: Do we have deadline until 12?
-Speaker B: Yes, deadline is 12 or 1 o' clock.
-Speaker C: Okay, we should do.
+Speaker A: Hello, everyone. How are you doing?
+Speaker B: We are at the final steps of the project.
+Speaker A: It's so stressful.
+Speaker C: I don't know. I. Have. I. I.
+Speaker A: Got panic attack.
+Speaker B: Yes, I'm dying.
+Speaker A: Sino has.
+Speaker B: Conducted a report about our project and its prospects.
+Speaker C: I'm the leader of the whole project.
+Speaker A: Absolutely.
+Speaker B: We are doing it with.
+Speaker A: Sina's laptop.

@@ -17,8 +17,9 @@ def assembly_stt_diarization(api_key, speakers_expected, audio_path, output_path
         raise RuntimeError(f"Transcription failed: {transcript.error}")
 
     with open(output_path, "w", encoding="utf-8") as f:
-        for utterance in transcript.utterances:
-            f.write(f"Speaker {utterance.speaker}: {utterance.text}\n")
+        if len(transcript.utterances) > 0:
+            for utterance in transcript.utterances:
+                f.write(f"Speaker {utterance.speaker}: {utterance.text}\n")
 
     print(f"Transcription saved to: {output_path}")
     return transcript.text
