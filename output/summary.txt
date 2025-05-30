@@ -1,0 +1,32 @@
+**Meeting Summary**
+
+**Date:** [Insert Date]
+
+**Participants:**
+- Sam
+- [Other Participants’ Names]
+
+**Meeting Objective:**
+To discuss the current state of the software testing and establish the next steps to ensure the correct functioning of the code by the set deadline.
+
+**Key Decisions:**
+- The team is focused on testing the entire file together to ensure it functions correctly when integrated.
+- Agreed to proceed with current strategy of wrapping all components together for a comprehensive test run.
+
+**Discussion Points:**
+- Current state of the testing process involves integrating and checking the performance of the entire file.
+- Aim is to identify any issues in the overall functioning by having all components work collectively.
+- Emphasis on observing the results of the next steps to determine effectiveness and potential areas of improvement.
+
+**Tasks Assigned:**
+- **Sam:** Ensure the code is completely integrated and functioning as a single unit. Deadline for this task is 12 or 1 o’clock.
+- [If there were any other tasks mentioned, please clarify or add those here as they were not clearly outlined.]
+
+**Next Steps:**
+- Continue with the testing of the entire file as a single unit.
+- Monitor the test results closely to identify any persisting issues.
+
+**Deadline:**
+- The immediate deadline for having the code run as intended is 12 or 1 o’clock.
+
+**Note:** If there are further updates or additional tasks discussed later, ensure to note them for follow-up.
